@@ -1,0 +1,11 @@
+.contactanos{
+    color: rgb(236, 236, 248);
+    background-color: rgba(122, 129, 235, 0.685);
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+
+    margin: 20px;
+    padding: 100px;
+    border-width: 100px;
+}

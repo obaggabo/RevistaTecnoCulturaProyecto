@@ -1,0 +1,10 @@
+.contenido{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+
+    margin: 20px;
+    padding: 100px;
+    border-width: 100px;
+}
