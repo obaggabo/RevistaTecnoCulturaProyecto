@@ -11,7 +11,7 @@ import { NAnterioresComponent } from './n-anteriores/n-anteriores.component';
 import { EditorialComponent } from './editorial/editorial.component';
 import { ContactanosComponent } from './contactanos/contactanos.component';
 import { LineamientosComponent } from './lineamientos/lineamientos.component';
-import { LuisComponent } from './luis/luis.component';
+
 
 @NgModule({
   declarations: [
@@ -24,7 +24,7 @@ import { LuisComponent } from './luis/luis.component';
     EditorialComponent,
     ContactanosComponent,
     LineamientosComponent,
-    LuisComponent
+  
   ],
   imports: [
     BrowserModule,
